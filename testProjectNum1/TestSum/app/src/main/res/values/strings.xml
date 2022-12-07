@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestSum</string>
+    <string name="text_logo">ПунькСреньк</string>
+    <string name="main_btn">Клик</string>
+</resources>
